@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joothiswaran Palanisamy</h1>
 <h3 align="center">Turning Data into Insights | Passionate AI Developer</h3>
 
-
 ---
 
 ## 🚀 Projects
